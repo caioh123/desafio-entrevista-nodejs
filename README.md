@@ -4,7 +4,7 @@
 Desenvolver uma aplicação backend em Nest.js com Swagger, Prisma.js e autenticação JWT para gerenciar um leilão de carros.
 Desenvolver uma aplicação mobile em ReactNative/Expo e web Next.js em que o usuário possa se cadastrar, logar, visualizar leilões, cadastrar leilões e dar um lance.
 
-## Tecnologias obrigatórias
+## Tecnologias obrigatóriasa
 
 Next.js
 Nest.js
